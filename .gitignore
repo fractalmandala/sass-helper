@@ -4,3 +4,4 @@ bun.lock
 .env
 update-key.pem
 dist
+.DS_store
